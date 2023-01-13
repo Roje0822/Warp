@@ -1,0 +1,15 @@
+name: Warp
+main: com.roje.warp.WarpMain
+author: roje
+description: A Minecraft Warp plugin
+
+version: 1.0.0
+api-version: 1.19
+
+depend: [ NickLib ]
+
+commands:
+  warp:
+    aliases: [ 워프 ]
+    description: 워프 명령어
+    usage: 잘못된 명령어입니다!
